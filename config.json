@@ -1,0 +1,178 @@
+{
+    "COB": {
+        "NAME": "COOCH BEHAR",
+        "DISTRICT_ID": 783,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "ALP": {
+        "NAME": "ALIPURDUAR",
+        "DISTRICT_ID": 710,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "JAL": {
+        "NAME": "JALPAIGURI",
+        "DISTRICT_ID": 722,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "KOL": {
+        "NAME": "KOLKATA",
+        "DISTRICT_ID": 725,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 5,
+        "MAX_DELAY": 10
+    },
+    "NPR": {
+        "NAME": "NORTH 24 PARGANAS",
+        "DISTRICT_ID": 730,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 15
+    },
+    "SPR": {
+        "NAME": "SOUTH 24 PARGANAS",
+        "DISTRICT_ID": 735,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 15
+    },
+    "HGL": {
+        "NAME": "HOOGLY",
+        "DISTRICT_ID": 720,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 15
+    },
+    "HOW": {
+        "NAME": "HOWRAH",
+        "DISTRICT_ID": 721,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 15
+    },
+    "MUR": {
+        "NAME": "MURSHIDABAD",
+        "DISTRICT_ID": 727,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "WMI": {
+        "NAME": "PASCHIM MEDINIPORE",
+        "DISTRICT_ID": 731,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "BNK": {
+        "NAME": "BANKURA",
+        "DISTRICT_ID": 711,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "BIS": {
+        "NAME": "BISHNUPUR HD",
+        "DISTRICT_ID": 714,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "NAD": {
+        "NAME": "NADIA",
+        "DISTRICT_ID": 728,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "EBW": {
+        "NAME": "EAST BARDHAMAN",
+        "DISTRICT_ID": 719,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "WBW": {
+        "NAME": "WEST BARDHAMAN",
+        "DISTRICT_ID": 737,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "KLP": {
+        "NAME": "KALIMPONG",
+        "DISTRICT_ID": 724,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "DRJ": {
+        "NAME": "DARJEELING",
+        "DISTRICT_ID": 717,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "UDJ": {
+        "NAME": "UTTAR DINAJPUR",
+        "DISTRICT_ID": 736,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "DDJ": {
+        "NAME": "DAKSHIN DINAJPUR",
+        "DISTRICT_ID": 716,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "EMI": {
+        "NAME": "PURBA MEDINIPORE",
+        "DISTRICT_ID": 732,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "MLD": {
+        "NAME": "MALDA",
+        "DISTRICT_ID": 726,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "BIR": {
+        "NAME": "BIRBHUM",
+        "DISTRICT_ID": 713,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "PUR": {
+        "NAME": "PURULIA",
+        "DISTRICT_ID": 733,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "RAM": {
+        "NAME": "RAMPURHAT HD",
+        "DISTRICT_ID": 734,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    },
+    "JHA": {
+        "NAME": "JHARGRAM",
+        "DISTRICT_ID": 723,
+        "TELEKEY": "TELEGRAM_BOT_API_KEY",
+        "MIN_DELAY": 10,
+        "MAX_DELAY": 30
+    }
+
+}
